@@ -30,7 +30,7 @@ var HELP_MESSAGE = "You can ask me a question, say, tell me a batteau fact, or, 
 var HELP_REPROMPT = "What can I help you with?";
 var STOP_MESSAGE = "Goodbye!";
 
-//NOTE: I took out my massive list of facts here to make this easier to read. They were listed in this data variable.
+// NOTE: I took out my massive list of facts here to make this easier to read. They were listed in this data variable.
 var data = [
         "A fact.",
         "Another fact.",
