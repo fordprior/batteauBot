@@ -1,0 +1,78 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "AnswerHowBuild",
+      "samples": [
+        "how do you build a bateau",
+        "how do you construct a bateau",
+        "how do you make a bateau",
+        "how are bateau made",
+        "how are bateau built",
+        "how are bateau constructe",
+        "how does building a bateau work",
+        "what goes into building a bateau"
+      ],
+      "slots": []
+    },
+    {
+      "name": "AnswerWhatIs",
+      "samples": [
+        "what is a bateau",
+        "what's a bateau",
+        "what the hell is a bateau",
+        "tell me what a bateau is",
+        "tell us what a bateau is"
+      ],
+      "slots": []
+    },
+    {
+      "name": "AnswerWhoUses",
+      "samples": [
+        "who uses a bateau",
+        "who actually uses a bateau",
+        "who rides in a bateau",
+        "who uses it"
+      ],
+      "slots": []
+    },
+    {
+      "name": "GetNewFactIntent",
+      "samples": [
+        "Tell me a bateau fact",
+        "Tell me something about bateau",
+        "Give me  a bateau fact",
+        "tell us a bateau fact",
+        "tell me a fact",
+        "tell us a fact",
+        "tell us something",
+        "drop some knowledge",
+        "tell us something about bateau",
+        "tell me a fact about bateau",
+        "tell us a fact about bateau",
+        "tell me something else",
+        "drop some more knowledge",
+        "tell me more",
+        "tell me another fact",
+        "tell me another bateau fact",
+        "tell me more bateau facts",
+        "tell us more bateau facts",
+        "give us another bateau fact",
+        "give me another bateau fact",
+        "share a bateau fact"
+      ],
+      "slots": []
+    }
+  ]
+}
