@@ -1,5 +1,5 @@
 # batteauBot
-An alexa skill in Node.js
+An alexa skill in Node.js. It's still in beta (click here to test[https://skills-store.amazon.com/deeplink/tvt/9aed219785802408375323d0eebba27ce2f86fe2e0c302aabf95a365b3615366598a6cb74766481044b3dbad37973d8301ce80d4cf787ff4f99dc47f1045c379cb05ce1b03071c7f9abd2eeffccb915c5f8eba0990ee7447ecd5b55c7f18769c95ebda2361719a519d007d54a0c7d4]).
 
 ## prerequisites
 Nothing local. Just fire up your Amazon Dev Console (for the skill code) & your AWS Console (for the triggering code).
